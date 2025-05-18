@@ -1,0 +1,8 @@
+{
+    "Paris": "Europe/Paris",
+    "London": "Europe/London",
+    "Tokyo": "Asia/Tokyo",
+    "New York": "America/New_York",
+    "Sydney": "Australia/Sydney",
+    "Berlin": "Europe/Berlin"
+}
